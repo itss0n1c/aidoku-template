@@ -1,0 +1,10 @@
+{
+	"info": {
+		"id": "en.source_name",
+		"lang": "en",
+		"name": "New Source",
+		"version": 1,
+		"url": "https://example.com",
+		"nsfw": 1
+	}
+}
